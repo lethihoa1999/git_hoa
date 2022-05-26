@@ -1,0 +1,2 @@
+Dễ dàng so sánh giữa các phiên bản 
+Phát hiện được ai đã sửa phần nào làm phát sinh lỗi
